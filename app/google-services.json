@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483818816420",
+    "project_id": "inchat-b5183",
+    "storage_bucket": "inchat-b5183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483818816420:android:f3b65449c46bd6fd1d7731",
+        "android_client_info": {
+          "package_name": "com.example.android.whatsappclonechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483818816420-gv37nh47k5c1r9e1aludltauj7eec49u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzPz1lnLN8G59YIml4k6eOWurGHyYfUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483818816420-gv37nh47k5c1r9e1aludltauj7eec49u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
